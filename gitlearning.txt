@@ -1,0 +1,14 @@
+git --version
+git config --global user.name "testusername"
+git config --global user.email "faustoamaya@yahoo.com"
+git config --global --list
+git init
+git add .
+git status
+git commit -m "My first commit"
+git remote add origin https://github.com/osonegro70/Demo-Repo.git
+git push -u origin master
+
+https://app.netlify.com/signup/email
+faustoamaya@yahoo.com
+Fasafa03_1970
